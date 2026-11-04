@@ -1,0 +1,21 @@
+{
+  "release": "kestrel-vision-adapter",
+  "release_version": "v4.0.1",
+  "upstream_attribution": "derived from an upstream dataset released by the Kestrel Labs team",
+  "upstream_repository_reference": null,
+  "artifact": {
+    "file_name": "kestrel_vision_adapter_v4.jsonl",
+    "format": "jsonl",
+    "sha256": "19319d867643a64941a0ae3c1baf65be0eeca167cfc738a0f5303651c37e4f6f",
+    "record_count": 120,
+    "schema_keys": [
+      "tile_id",
+      "split",
+      "width",
+      "height",
+      "pixel_sha256",
+      "caption"
+    ]
+  },
+  "notes": "Repository link was not recorded in the internal snapshot."
+}
